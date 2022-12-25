@@ -4,7 +4,6 @@ Olá! Fcode Tech 👋
 - 🔭 Atualmente estou no 3° semestre em 
 Superior de Tecnologia em Desenvolvimento Back-end...
 - 🌱 Estudo HTML5, CSS3, Python, Java, C, JavaScript, Php, Banco de dados...
-- 👯 - ⚡ - 😄 - 🤔 
 - 💬 "Sou iniciante na programação, aprendo cada dia mais. E estou facinado com o mundo da tecnologia..."
 - 📫 Fcode.tech@gmail.com ...
  
@@ -36,6 +35,6 @@ Superior de Tecnologia em Desenvolvimento Back-end...
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:fcode.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
  
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
