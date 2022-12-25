@@ -1,4 +1,4 @@
-Olá! Me chamo Fredson Marques da Silva 👋
+Olá! Me Chamo Fredson Marques da Silva 👋
 
 
 - 🔭 Atualmente estou no 3° semestre em 
