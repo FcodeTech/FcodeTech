@@ -11,8 +11,8 @@ Superior de Tecnologia em Desenvolvimento Back-end...
 
 <div align="center">
   <a href="https://github.com/fcode.tech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fcodetech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcodetech&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fcodetech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcodetech&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
